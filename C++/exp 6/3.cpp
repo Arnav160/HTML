@@ -15,7 +15,7 @@ int main()
     cout<<"Enter number of elements of second array: ";
     cin>>n2;
     int b[n2];
-    for(i=0;i<n1;i++)
+    for(i=0;i<n2;i++)
     {
         cout<<"Enter element: ";
         cin>>b[i];

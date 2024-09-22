@@ -21,7 +21,6 @@ int main()
     cin>>p;
     cout<<"Enter the number of column of second array: ";
     cin>>q;
-    int d=p*q;
     int b[p][q];
     for(i=0;i<p;i++)
     {
